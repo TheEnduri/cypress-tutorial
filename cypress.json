@@ -1,6 +1,4 @@
 {
-  "env": {
-    "username": "enduri",
-    "password": ""
-  }
+  "baseUrl": "http://localhost:3000",
+  "env": { "username": "enduri", "password": "" }
 }
